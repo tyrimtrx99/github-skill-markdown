@@ -8,3 +8,8 @@ i have just tested the headers
 
 now an image
 ![Image of cat](https://www.istockphoto.com/photos/confused-cat)
+
+now a code block
+``` c
+printf{"Hello, motherfather!"};
+```
