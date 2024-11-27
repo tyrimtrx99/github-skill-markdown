@@ -5,3 +5,6 @@
 # <h5>This is a small header
 # <h6>This is a tiny header
 i have just tested the headers
+
+now an image
+![Image of cat](https://www.istockphoto.com/photos/confused-cat)
