@@ -13,3 +13,8 @@ now a code block
 ``` c
 printf{"Hello, motherfather!"};
 ```
+
+now a task list
+- [x] writing a task list
+- [x] commitin it
+- [ ] use in daily life
